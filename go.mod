@@ -1,3 +1,3 @@
-module github.com/traefik/plugindemo
+module github.com/eknowles/minio-auth
 
 go 1.19

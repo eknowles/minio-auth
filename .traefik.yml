@@ -1,10 +1,10 @@
-displayName: Demo Plugin
+displayName: MinIO Auth
 type: middleware
 iconPath: .assets/icon.png
 
-import: github.com/traefik/plugindemo
+import: github.com/eknowles/minio-auth
 
-summary: '[Demo] Add Request Header'
+summary: 'Add simple authentication headers to MinIO'
 
 testData:
   Headers:
